@@ -1,0 +1,6 @@
+{
+  "name": "Эко-платформа Талдыколь",
+  "description": "Интерактивный цифровой прототип плавающей фито-платформы с рогозом и аэратором для восстановления качества воды озера Талдыколь.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
